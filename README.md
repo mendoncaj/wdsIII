@@ -1,4 +1,4 @@
-# PCS_5031
+# READ ME
 Read all this readme before starting to download files.
 
 The main code file for this repo is called PCS_5031.py and is a python-based script. I run it at the 2.7.13 version but it can be ran on any newer version, including 3.x versions.
